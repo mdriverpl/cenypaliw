@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cenypaliw",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4f0c2545-3dac-4c24-b013-5be0aaa16c3e",
+      "database_name": "cenypaliw"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
